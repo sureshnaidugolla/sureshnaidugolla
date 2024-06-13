@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suresh Naidu
 - 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently learning Data Acquisition using Gaussian Processes with GPCAM
+- 🌱 I’m currently learning and working on Data Acquisition using Gaussian Processes with GPCAM
 - 💞️ I’m looking to collaborate on any topic related to computer science 
 - 📫 How to reach me sureshnaidugolla0614@gmail.com
 - 😄 Pronouns: He/Him
