@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Suresh Naidu
-- 👀 I’m interested in Software Development and Machine Learning
+- 👀 I’m interested in Software Development ,Machine Learning and Application Development
 - 🌱 I’m currently learning and working on Data Acquisition using Gaussian Processes with GPCAM
-- 💞️ I’m looking to collaborate on any topic related to computer science 
+- 💞️ I’m looking to collaborate on any projects related to computer science  
 - 📫 How to reach me sureshnaidugolla0614@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Stubborn Coder
 
 <!---
 sureshnaidugolla/sureshnaidugolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
