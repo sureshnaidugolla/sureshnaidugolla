@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and working on Data Acquisition using Gaussian Processes with GPCAM
 - 💞️ I’m looking to collaborate on any projects related to computer science  
 - 📫 How to reach me sureshnaidugolla0614@gmail.com
+-   linedin : https://www.linkedin.com/in/sureshnaidugolla/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stubborn Coder
 
